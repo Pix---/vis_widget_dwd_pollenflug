@@ -1,6 +1,6 @@
 # VIS Darstellung für ioBroker Pollenflug Adapter
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.jpg)
 
 ## VIS Widget
 Code zum Importieren im VIS Editor in der Datei ``widget`` 
