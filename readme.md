@@ -1,10 +1,14 @@
 # VIS Darstellung für ioBroker Pollenflug Adapter
 
+![Screenshot](screenshot.png)
+
 ## VIS Widget
 Code zum Importieren im VIS Editor in der Datei ``widget`` 
 
 ## CSS
 CSS Code zum Kopieren in den Reiter CSS/Projekt des VIS-Editors in der Datei ``CSS``
+
+![Screenshot](screenshot_detail.png)
 
 ## History
 ### 0.0.1 initial (06.04.2019)
