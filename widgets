@@ -98,8 +98,9 @@
 
 .pollen_ampel_2 {
     border-color: red; /* Fallback */
-    border-color: rgba(173,255,47,1) !important;
-    background-color: rgba(124,252,0,1) !important;
+    border-color: rgba(173,255,47,1);
+    background-color: red; /* Fallback */
+    background-color: rgba(124,252,0,1);
 }
 
 .pollen_ampel_3 {
